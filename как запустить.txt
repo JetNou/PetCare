@@ -1,0 +1,9 @@
+Запуск программы
+./start.bat
+
+Запуск тестов фоновых задач
+Активировать venv
+тест работоспособности:
+python test_notifications.py
+тест с реальными данными:
+python test_immediate_notification.py
